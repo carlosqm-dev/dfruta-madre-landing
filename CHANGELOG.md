@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/carlosqm-dev/dfruta-madre-landing/compare/v1.4.0...v1.5.0) (2026-06-14)
+
+
+### Features
+
+* se agrega script para Google Analytics ([4f2ce51](https://github.com/carlosqm-dev/dfruta-madre-landing/commit/4f2ce5174f84f9e83f1b377e3ec987bed8e99144))
+
 ## [1.4.0](https://github.com/carlosqm-dev/dfruta-madre-landing/compare/v1.3.0...v1.4.0) (2026-06-12)
 
 
